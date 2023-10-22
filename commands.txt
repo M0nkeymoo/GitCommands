@@ -1,0 +1,9 @@
+git status
+
+git push -u origin
+
+git pull origin
+
+git stage *
+
+git commit * -m 'comment here'
