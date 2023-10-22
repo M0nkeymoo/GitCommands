@@ -1,6 +1,6 @@
 git status
 
-git push -u origin
+git push origin
 
 git pull origin
 
